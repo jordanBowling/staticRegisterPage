@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(103, 203, 236);
+}
+
+form {
+    background-color: white;
+    border: none;
+    top: 50%;
+    left: 50%;
+    width: 220px;
+    height: 350px;
+    position: fixed;
+    margin-top: -175px;
+    margin-left: -110px;
+    padding: 10px;
+
+}
+
+header {
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 13px;
+}
+
+
+.raptor {
+    padding: 15px;
+    
+
+} 
+
+#submit {
+    background-color: rgb(11, 157, 241);
+    color: white;
+    text-align: center;
+    border: none;
+    height: 30px;
+    width: 100%;
+}
+
+.links{
+    float: right;
+    padding: 15px;                                                                                                                      
+}
